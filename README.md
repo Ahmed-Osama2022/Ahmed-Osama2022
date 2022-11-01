@@ -5,7 +5,7 @@
 ```Web Development```
 - 🌱 I’m currently learning 
 ``` Html, Css && JavaScript```
-### 📫 This is how you can reach me ...
+### 📫 This is how you can reach me: 
 - Email ✉️:
 ``` ahmadosama.2011@gmail.com ```
 
