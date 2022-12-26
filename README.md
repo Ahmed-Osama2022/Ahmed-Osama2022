@@ -16,6 +16,7 @@
 #### Also have intermediate knowledge in:
 - bash
 - batch
+- Generally Command line interface
 ---
 Hoping this helped you to get more about me 😊
 <!---
