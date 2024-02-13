@@ -3,6 +3,7 @@
 - 👋 Hi, I’m @Ahmed-Osama2022
 - 👀 I’m interested in 
 ```Front-End Web Development```
+- Freelancer
 
 ### Skills:
 - HTML5
