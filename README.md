@@ -1,7 +1,7 @@
 ## Ahmed Osama Kashaba
 
 - 👋 Hi, I’m @Ahmed-Osama2022
-<p>a freelancer front-end web  developer, my passion for web-apps lies In dreaming of ideas and making them come true through elegant interfaces</p>
+<p>a freelancer front-end web  developer, my passion for web-apps lies In dreaming of ideas and making them come true through elegant interfaces☺️</p>
 
 ### Skills:
 - HTML5
