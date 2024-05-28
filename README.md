@@ -11,7 +11,7 @@
 - ReactJs
 
 ### 📫 This is how you can reach me: 
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=falt_sqare)](mailto://ahmadosama.2011@gmail.com)
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=falt_sqare)](mailto:ahmadosama.2011@gmail.com)
 - [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=falt_sqare)](https://wa.me/+201553064098)
 ---
 Hoping this helped you to get more about me 😊
