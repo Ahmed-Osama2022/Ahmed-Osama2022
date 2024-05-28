@@ -12,9 +12,8 @@
 
 ### 📫 This is how you can reach me: 
 - Email ✉️:
-``` ahmadosama.2011@gmail.com ```
-- WhatsApp:
-```+201553064098```
+``` ahmadosama.2011@gmail.com ``` 
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=falt_sqare)](https://wa.me/+201553064098)
 ---
 Hoping this helped you to get more about me 😊
 <!---
