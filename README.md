@@ -1,6 +1,6 @@
 ## Ahmed Osama Elsayed 
 
-- 👋 Hi, I’m
+👋 Hi, I’m
 <p>a freelancer front-end web  developer, my passion for web-apps lies In dreaming of ideas and making them come true through elegant interfaces☺️</p>
 
 ### Skills:
