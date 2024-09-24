@@ -6,7 +6,7 @@
 ### Skills:
 - HTML5
 - CSS3
-- Bootstrap 5
+- Bootstrap
 - JavaScript with ES6
 - ReactJs
 
