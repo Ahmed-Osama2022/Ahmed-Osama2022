@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Ahmed Osama Elsayed
 
-I’m a **Full-Stack Web Developer** passionate about turning ideas into elegant, functional web applications. I enjoy building **SaaS platforms**, responsive interfaces, and robust backends that help businesses grow.  
+I’m a **Full-Stack Web Developer (PHP/Laravel)** passionate about turning ideas into elegant, functional web applications. I enjoy building **SaaS platforms**, responsive interfaces, and robust backends that help businesses grow.  
 
 ---
 
