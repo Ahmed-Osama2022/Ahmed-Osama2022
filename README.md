@@ -32,6 +32,12 @@ I’m a **Full-Stack Web Developer (PHP/Laravel)** passionate about turning idea
 
 ---
 
+### ⚠️ Some Projects Are Private
+For security and intellectual property reasons, some of my most important Laravel projects **cannot be publicly shared**.  
+I’m happy to discuss these projects during interviews or via private demos with potential employers/clients.  
+
+---
+
 ### 📫 Contact Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadosama.2011@gmail.com)  
