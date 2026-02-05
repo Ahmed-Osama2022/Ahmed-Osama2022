@@ -1,25 +1,38 @@
 ## 👋 Hi, I’m Ahmed Osama Elsayed
 
-I’m a **Full-Stack Web Developer** passionate about turning ideas into elegant, functional web applications. I love building **SaaS platforms**, responsive interfaces, and robust backends that help businesses grow.  
+I’m a **Full-Stack Web Developer** passionate about turning ideas into elegant, functional web applications. I enjoy building **SaaS platforms**, responsive interfaces, and robust backends that help businesses grow.  
 
 ---
 
 ### 💻 Skills
 
-**Frontend:** HTML5, CSS3, Bootstrap, JavaScript (ES6), ReactJS, Livewire  
-**Backend:** PHP, Laravel, MySQL, RESTful APIs, JWT Authentication  
-**Tools & Others:** Git, Composer, VS Code, Docker, Apache  
+**Frontend:**  
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"/> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> 
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>  
+
+**Backend:**  
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Laravel-FC3A27?style=flat&logo=laravel&logoColor=white"/> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>  
+
+**Other Tools:**  
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Composer-FF6600?style=flat&logo=composer&logoColor=white"/> 
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>  
 
 ---
 
-### 🚀 Experience Highlights
-- Developed a **Restaurant Ordering & Management SaaS System** with Laravel & FilamentPHP  
-- Built **Customer & Admin Dashboards**, online ordering, and reporting modules  
-- Integrated **Barcode Scanning & Printing** in Laravel for small business workflows  
+### 🚀 Key Projects
+- **Restaurant Ordering & Management SaaS** – Laravel & FilamentPHP  
+- **Customer & Admin Dashboards** with online ordering & reporting  
+- **Barcode Scanner & Printer Integration** in Laravel for small businesses  
 
 ---
 
-### 📫 How to Reach Me
+### 📫 Contact Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadosama.2011@gmail.com)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff)](https://wa.me/+201553064098)  
@@ -27,5 +40,4 @@ I’m a **Full-Stack Web Developer** passionate about turning ideas into elegant
 ---
 
 ### 🌱 Fun Fact
-I enjoy **turning complex workflows into simple, user-friendly apps** and sharing knowledge with the community.  
-
+I love **simplifying complex workflows** into user-friendly apps and **sharing knowledge** with the community.  
